@@ -1,0 +1,19 @@
+.swtext {
+    color: rgb(255, 210, 0);
+    text-decoration: none;
+}
+
+.swtext:hover {
+    color: rgb(255, 210, 0);
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: rgb(20, 20, 20);
+    border-top: 1px solid rgb(255, 210, 0);
+    border-bottom: 1px solid rgb(255, 210, 0);
+}
+
+.navitem {
+    margin-right: 20px;
+}
